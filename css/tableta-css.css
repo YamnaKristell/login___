@@ -1,0 +1,11 @@
+.login_color{
+    height: 100vh;
+}
+
+.formulario{
+    border-radius: 4rem;
+}
+
+.formulario a {
+    margin-bottom: 5rem;
+}
